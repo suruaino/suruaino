@@ -1,0 +1,124 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px auto;
+    width: 80%;
+    height: auto;
+    background: hsl(217, 54%, 11%);
+    padding: 100px 20px;
+
+}
+.container{
+    background: hsl(216, 50%, 16%);
+    width: 90%;
+    height: auto;
+    margin: 0px auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.container img{
+    width: 95%;
+    border-radius: 10px;
+}
+
+.container h1, h3{
+    color: white;
+}
+
+p{
+    color: hsl(215, 51%, 70%);
+    font-size: 16px;
+}
+
+.content .up{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.within{
+    display: flex;
+    justify-content: space-between;
+}
+.within span{
+    color: hsl(178, 100%, 50%);
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.within span img{
+    width: 15px;
+    height: 30px;
+}
+
+.within p{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.within p img{
+    width: 30px;
+    height: 30px;
+    align-items: center;
+}
+
+.user{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.user img{
+    width: 30px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+hr{
+    border: 1px solid hsl(215, 32%, 27%);
+}
+
+@media(min-width: 760px){
+    main{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0px auto;
+        width: 80%;
+        height: auto;
+        background: hsl(217, 54%, 11%);
+        padding: 100px 200px;
+    
+    }
+
+    .container{
+        background: hsl(216, 50%, 16%);
+        min-width: 150%;
+        max-width: 150%;
+        height: auto;
+        margin: 0px auto;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+        box-sizing: border-box;
+        border-radius: 10px;
+    }
+}
