@@ -1,4 +1,4 @@
-# Hi, I'm SURU EMMANUEL ONAIVI! 👋
+# Hi, I'm SURU EMMANUEL ONAIVI 👋
 
 I am a growing frontend developer passionate about creating outsanding we apps. Driven by a curiosity for technology and a love for writing. My journey involves delving into the world tech, exploring new ideas, and sharing my insights with the community.
 
