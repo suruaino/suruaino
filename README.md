@@ -25,7 +25,7 @@ I am a growing frontend developer passionate about creating outsanding we apps. 
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://www.twitter.com/suruaino)
-- Connect with me on [Linkedin](https://www.linkedin.com/in/suru-emmanuel)
+- Connect with me on [Linkedin](https://www.linkedin.com/in/suru-emmanuel-b3620947/)
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
