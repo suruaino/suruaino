@@ -1,18 +1,18 @@
-# Hi, I'm SURU EMMANUEL ONAIVI 👋
+# Hi, I am SURU EMMANUEL ONAIVI 👋
 
-I am a growing frontend developer passionate about creating outsanding web apps. Driven by a curiosity for technology and a love for writing. My journey involves delving into the world tech, exploring new ideas, and sharing my insights with the community.
+I am a growing frontend developer passionate about creating outsanding web apps. Driven by a curiosity for technology and a love for writing. My journey involves delving into the world of tech, exploring new ideas, and sharing my insights with the community.
 
 ## 🚀 About Me
 
-- 🔭 I'm a graduate of Uniben with B.sc in Medical Biochemistry.
+- 🔭 I'm a graduate of University of Benin with B.sc in Medical Biochemistry.
 - 📝 I am pationate about turning designs into readable and maitainable codes.
  
 ## 🌱 Currently Exploring
 
   - Practicing vanilla js with simple common projects.
-  - Reading about regular expression.
-  - Learning javascript.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - React.
+  - Nest.js.
+  - Typescript
 
  ## 🏆 Achievements
 
